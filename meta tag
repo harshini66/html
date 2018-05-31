@@ -1,0 +1,4 @@
+<meta http-equiv="refresh" content="900;url=logout.php" />
+
+//When user open a page, the browser will count for 900 seconds (15 minutes). 
+//When it reached 900, the browser will redirect the page into logout.php
